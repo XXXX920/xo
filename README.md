@@ -9,3 +9,4 @@ github上直接更改
 jdlsajd
 
 <html>
+git config pull.rebase true
